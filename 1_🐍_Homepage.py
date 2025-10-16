@@ -37,12 +37,15 @@ st.markdown(
 
     Please work through the pages from the sidebar menu for information about:
     * Why Python is one of the most popular programming languages and why you should learn it.
+    * How to get access to Anthropics Claude GenAI tool.
+    * Most effective ways of using Claude for your digital skills development.
     * How you can install Python + VS Code on your personal laptop.
     * The Python for Statistics Pre-Sessional Bootcamp format and timetable.
     * How to access the Python workshop materials from this website.
     * How to access and work with jupyter noteboos in VS Code.
     * How to install libraries and create and manage environments with conda (optional).
-
+    * Filling in the confidence checks to asses the impact of the bootcamp.
+    
     &nbsp;
 
     <div class="highlight blue">
