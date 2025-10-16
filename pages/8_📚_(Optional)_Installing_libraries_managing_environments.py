@@ -215,16 +215,3 @@ jupyterlab_widgets        1.0.0              pyhd3eb1b0_1    anaconda
 """
 )
 
-
-
-
-st.markdown(
-    """
-<br>
-
- <div class="highlight blue">
-    Come to the pre-sessional workshops if you struggle with any of the steps from this tutorial. You can find more information about the workshops in the 
-    <a href="Pre-sessional_Workshops", target="_self">Python Pre-sessional workshops section</a>.
-    </div>
-    """, unsafe_allow_html=True
-)
