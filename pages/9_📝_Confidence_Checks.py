@@ -32,7 +32,7 @@ st.markdown(
     """
 Record your current confidence level with the topics and techniques that will be covered in the bootcamp.
 
-[📋 Open Pre-Bootcamp Survey](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=_epnVXfnpUKRu5RA_UO4k3yz2YdvzEJIrB8SYoRSlYlUOEpLV1hPU0Q5WFJGS1Q2Wkg0TTFOMVgwNi4u&Token=2528cf8b897d4544957afbf175cb3020)
+[📋 Open Pre-Bootcamp Survey](https://forms.office.com/e/5jeGxNam0g)
 """
 )
 
@@ -51,7 +51,7 @@ st.markdown(
     """
 Record your confidence level with the topics and techniques after completing the bootcamp.
 
-[📊 Open Post-Bootcamp Survey](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=_epnVXfnpUKRu5RA_UO4k3yz2YdvzEJIrB8SYoRSlYlUQU9FTjUwMzNBS1hBOUJIWjRYUzM1MEE4WS4u&Token=2b7162eee37c499ea05de24ce5d31a05)
+[📊 Open Post-Bootcamp Survey](https://forms.office.com/e/LsNh1a49tH)
 """
 )
 st.divider()
