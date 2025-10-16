@@ -54,3 +54,31 @@ Record your confidence level with the topics and techniques after completing the
 [📊 Open Post-Bootcamp Survey](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=_epnVXfnpUKRu5RA_UO4k3yz2YdvzEJIrB8SYoRSlYlUQU9FTjUwMzNBS1hBOUJIWjRYUzM1MEE4WS4u&Token=2b7162eee37c499ea05de24ce5d31a05)
 """
 )
+st.divider()
+
+# Celebration section
+st.markdown("## 🎉 Congratulations!")
+
+st.markdown(
+    """
+If you've completed the bootcamp and both surveys, you've accomplished something significant! 
+You've developed new Python skills, tackled challenging problems, and expanded your data science toolkit.
+"""
+)
+
+col1, col2, col3 = st.columns([1, 2, 1])
+
+with col2:
+    if st.button("🎈 Celebrate Your Achievement! 🎈", use_container_width=True):
+        st.balloons()
+        st.success("🌟 **Well done!** Keep building on what you've learned. The Digital Skills Lab is here to support your continued learning journey.")
+
+st.markdown(
+    """
+### What's Next?
+
+- 💡 Apply your new skills to your coursework or research projects
+- 🔍 Explore more advanced workshops available through the Digital Skills Lab
+- 🤝 Connect with fellow bootcamp participants to continue learning together
+"""
+)
